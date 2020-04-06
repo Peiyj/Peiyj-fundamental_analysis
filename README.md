@@ -1,20 +1,20 @@
-# Solemate README
+# README
 
 ## Table of Contents
 1. [Overview](#Overview)
 2. [Product Spec](#Product-Spec)
 3. [Wireframes](#Digital-Wireframes)
 
-## Overview
+## StockMorning Overview
 ### Description
-
+StockMorning is a stock analysis website that analyzes the true instrinsic value of a stock. This website serves as a tool for investor to automate their investment decision as well as making a future prediction of the stock price they intent to invest. This application will showcase information and provide
 
 ### App Evaluation
-- **Category:** 
-- **Mobile:** 
-- **Story:**
-- **Market:** 
-- **Habit:** 
+- **Category:** Financial Service
+- **Mobile:** This application is used mainly for website
+- **Story:**  This application allows you to search for any stock ticker name. Then it will generate a graph indicating the company's annual profit graph. It will then also generate projected 10 year cash flow as well as an instrinsic value calculation.
+- **Market:** Stock investors
+- **Habit:** This app should be used periodically to evaluate one's stock portofolio
 - **Scope:** 
 
 ## Product Spec
@@ -22,12 +22,16 @@
 
 **Required Must-have Stories**
 
-* 
+* Intrinsic value calculator
+* Cash flow projected graph
+* Profit graph 
+* Market Price
+
 
 
 **Optional Nice-to-have Stories**
 
-* 
+* User Accounts
 
 
 ### 2. Screen Archetypes
@@ -36,21 +40,16 @@
 
 ### 3. Navigation
 
-**Tab Navigation** 
-
-**Flow Navigation** 
-
+Search page <-> Main Page 
 
 ## Digital Wireframes
 
 
 ### 4. Models
 
-**user object**
+**Ticker object**
 
 
 ### 5. Outline Network Requests
 
-* 
-
-## Sprint 1
+https://financialmodelingprep.com/developer/docs/
