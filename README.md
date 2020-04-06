@@ -48,6 +48,11 @@ Search page <-> Main Page
 ### 4. Models
 
 **Ticker object**
+| Property    | Type    | Description                       |
+|-------------|---------|-----------------------------------|
+| tickername  | String  | the ticker name                   |
+| profit      | Array   | the 10 year profit array          |
+| cashFlow    | Array   | the 10 year projected cashflow    |
 
 
 ### 5. Outline Network Requests
