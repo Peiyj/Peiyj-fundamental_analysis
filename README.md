@@ -36,7 +36,7 @@ StockMorning is a stock analysis website that analyzes the true instrinsic value
 
 ### 2. Screen Archetypes
 
-* 
+* TODO
 
 ### 3. Navigation
 
